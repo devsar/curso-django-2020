@@ -9,6 +9,12 @@ Si aún no hemos creado un virtualenv hacemos,
 Activamos el virtualenv,
 
 ```bash
+~/curso-django-2020 $ source venv-curso-django/bin/activate
+```
+
+Instalamos Django,
+
+```bash
 (venv-curso-django) ~/curso-django-2020 $ pip install django
 ```
 
